@@ -1,0 +1,17 @@
+commit 79f8fdaac92632fb4700e01ab0fc1e541a455578
+Author: Rodrigo Scott <scott_rona1@hotmail.com>
+Date:   Thu Sep 19 18:11:26 2019 -0500
+
+    tercer cambio
+
+commit 3b73fdff9cb7ef359f141ba657efa689e279a85f
+Author: Rodrigo Scott <scott_rona1@hotmail.com>
+Date:   Wed Sep 18 11:41:00 2019 -0500
+
+    cambio en ultimo renglon
+
+commit d832bfd5f81021aa38a2db46759121aa906ef1b5
+Author: Rodrigo Scott <scott_rona1@hotmail.com>
+Date:   Wed Sep 18 11:36:46 2019 -0500
+
+    cambio en el primer rengon del codigo
