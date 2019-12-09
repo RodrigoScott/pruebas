@@ -8,3 +8,5 @@ git reset --hard+codigo		elimiar todo desde ese código
 git branch 					ver las ramas 
 git branch+nombre			crear una nueva rama
 git checkout+rama 			moverse a la rama
+git branch -d 				eliminar una rama que no usamos 
+git merge+rama				fucionar la rama en que estams situados con los cambios de la rama que escogemos
