@@ -1,19 +1,23 @@
-git init 					iniciar proyecto
-git add -A 					agregar todo
-git status					ver estado de los documentos 
-git log 					ver los commits
-git checkout				moverse entre los cambios
-git reset --soft+codigo		elimiar solo los commits a partir de ese código
-git reset --hard+codigo		elimiar todo desde ese código
-git branch 					ver las ramas 
-git branch+nombre			crear una nueva rama
-git checkout+rama 			moverse a la rama
-git branch -D 				eliminar una rama que no usamos 
-git merge+rama				fucionar la rama en que estams situados con los cambios de la rama que escogemos
-git checkout -b+nombre		crear una nueva rama y moverse a esa rama al mismo tiempo
-git commit -am				agregar cambios y hacer el commit al mismo tiempo
-git clone +liga				clonar un repositorio desde github
-git remote add origin +liga	conectar documentos locales con el demote de github
-git remote -v 				ver si se subio correctamente a github
-git push origin master		mandar los documentos locales al remote de github
+git init 						iniciar proyecto
+git add -A 						agregar todo
+git status						ver estado de los documentos 
+git log 						ver los commits
+git checkout					moverse entre los cambios
+git reset --soft+codigo			elimiar solo los commits a partir de ese código
+git reset --hard+codigo			elimiar todo desde ese código
+git branch 						ver las ramas 
+git branch+nombre				crear una nueva rama
+git checkout+rama 				moverse a la rama
+git branch -D 					eliminar una rama que no usamos 
+git merge+rama					fucionar la rama en que estams situados con los cambios de la rama que escogemos
+git checkout -b+nombre			crear una nueva rama y moverse a esa rama al mismo tiempo
+git commit -am					agregar cambios y hacer el commit al mismo tiempo
+git clone +liga					clonar un repositorio desde github
+git remote add origin +liga		conectar documentos locales con el demote de github
+git remote -v 					ver si se subio correctamente a github
+git push origin master			mandar los documentos locales al remote de github
 git commit --amend -m			editar un commit
+git tag -a +version -m 			agregar un tag de version
+git tag -a +version -m +codigo 	agregar un tag de version a un commit especifico
+git push origin +version		subir la verion que pongamos al remote de githb
+git push origin --tag			subir todas las versiones que tengamos al remote de github
