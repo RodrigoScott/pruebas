@@ -16,3 +16,4 @@ git clone +liga				clonar un repositorio desde github
 git remote add origin +liga	conectar documentos locales con el demote de github
 git remote -v 				ver si se subio correctamente a github
 git push origin master		mandar los documentos locales al remote de github
+git commit --amend -m			editar un commit
