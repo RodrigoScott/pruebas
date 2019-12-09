@@ -184,3 +184,5 @@ aco.correrHormiga()
 #agrenar nueva
 
 #agregar nueva linea en la seccion de texto minuto 18:14 curso 4
+
+#agregar linea de comando para pruebas desde la rama de pruebas
