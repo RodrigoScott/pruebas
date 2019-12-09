@@ -181,12 +181,4 @@ aco.correrHormiga()
 
 #evaluación es el total del recorrido, el index es el camino con mayor feromona
 
-#cambio en la última linea
 
-#cambio 3
-
-#cambio para ver que pedo con el  branch
-
-#poniendo otro cambio para ver que pedo con el branch
-
-# esstamos escribiendo texto en la rama de texto
