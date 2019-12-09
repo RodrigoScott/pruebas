@@ -182,3 +182,5 @@ aco.correrHormiga()
 #evaluación es el total del recorrido, el index es el camino con mayor feromona
 
 #agrenar nueva
+
+#agregar nueva linea en la seccion de texto minuto 18:14 curso 4
