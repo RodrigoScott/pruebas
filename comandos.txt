@@ -13,4 +13,6 @@ git merge+rama				fucionar la rama en que estams situados con los cambios de la 
 git checkout -b+nombre		crear una nueva rama y moverse a esa rama al mismo tiempo
 git commit -am				agregar cambios y hacer el commit al mismo tiempo
 git clone +liga				clonar un repositorio desde github
-git remote add origin +liga	subir documentos a github
+git remote add origin +liga	conectar documentos locales con el demote de github
+git remote -v 				ver si se subio correctamente a github
+git push origin master		mandar los documentos locales al remote de github
