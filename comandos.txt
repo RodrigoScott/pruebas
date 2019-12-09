@@ -1,5 +1,10 @@
-git init 				iniciar proyecto
-git add -A 				agregar todo
-git status				ver estado de los documentos 
-git log 				ver los commits
-git checkout			moverse entre los cambios
+git init 					iniciar proyecto
+git add -A 					agregar todo
+git status					ver estado de los documentos 
+git log 					ver los commits
+git checkout				moverse entre los cambios
+git reset --soft+codigo		elimiar solo los commits a partir de ese código
+git reset --hard+codigo		elimiar todo desde ese código
+git branch 					ver las ramas 
+git branch+nombre			crear una nueva rama
+git checkout+rama 			moverse a la rama
