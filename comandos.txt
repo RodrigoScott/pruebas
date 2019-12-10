@@ -25,3 +25,5 @@ git branch -a 					mostrar ramas ocultas
 git fetch origin				bajar los cambios desde el remote de github
 git merge origin/master			combinar nuestro master local con el origin/master
 git remote remove origin		remover la conexion al remote de github
+git .gitignore					ignorar carpetas o archivos especificos
+git pull origin +rama 			fetch + merge
