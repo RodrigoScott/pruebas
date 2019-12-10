@@ -21,3 +21,7 @@ git tag -a +version -m 			agregar un tag de version
 git tag -a +version -m +codigo 	agregar un tag de version a un commit especifico
 git push origin +version		subir la verion que pongamos al remote de githb
 git push origin --tag			subir todas las versiones que tengamos al remote de github
+git branch -a 					mostrar ramas ocultas
+git fetch origin				bajar los cambios desde el remote de github
+git merge origin/master			combinar nuestro master local con el origin/master
+git remote remove origin		remover la conexion al remote de github
